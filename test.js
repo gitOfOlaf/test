@@ -1,1 +1,0 @@
-HTMLAllCollection.prototype.forEach = Array.prototype.forEach;
